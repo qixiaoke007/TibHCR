@@ -2,8 +2,8 @@
 
 This is a dataset link for the paper "TibHCR: A Large-Scale Dataset for Offline Handwritten Tibetan Character Recognition".
 
-## Dataset download 
-The dataset can be dowloaded from the [Link](https://huggingface.co/datasets/qixiaoke/TibHCR)
+## Dataset Access 
+The dataset can be downloaded from the [Link](https://huggingface.co/datasets/qixiaoke/TibHCR)
 
 ## Explanations
 Detailed explanations for key aspects of the dataset:
